@@ -35,14 +35,13 @@ HLCV_Anomaly_Detection/
 
 ## **🚀 How to Use**  
 ### **1. Quick Start (Colab)**  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/repo/blob/main/notebooks/HLCV_Project.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hajraRehman/repo/blob/main/notebooks/HLCV_Project.ipynb)  
 - Run the notebook directly in Colab with GPU support.  
 
 ### **2. Local Setup**  
 ```bash
 git clone https://github.com/yourusername/HLCV_Anomaly_Detection.git
 cd HLCV_Anomaly_Detection
-pip install -r requirements.txt  # Install dependencies
 ```  
 **Note**: Download `.pth` files via Git LFS.  
 
