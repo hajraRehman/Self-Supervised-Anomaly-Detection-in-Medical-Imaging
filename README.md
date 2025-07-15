@@ -2,8 +2,9 @@
 *By Hafiza Hajrah Rehman*  
 **M.Sc. Data Science & AI, Saarland University, Germany**  
 
-![Sample Results](results/results.png)  
+![Sample Results](results.png)  
 *Example predictions: Tumor vs. Normal (with confidence scores)*  
+
 
 ---
 
